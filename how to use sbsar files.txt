@@ -1,0 +1,33 @@
+Hello!
+My name is "nothing" in the Sauerbraten community.
+Collaberating in the development of Inexor, Iam responsible for the textures.
+As you can assume, it would be very painfully time intensive to create all the textures needed in a game by 1 person.
+So I tried to find ressources that are following our policy of open source.
+Therefore I found the wonderfull website of ambientcg.com
+I did download a lot of files there, which are in *.sbsar format.
+So what is this?
+Simply said, a sbsar file contains informations to create textures, that can be altered in color, structure, depth
+and any other parameter thats exposed by the authors of the textures.
+To create textures out of this files you need the free substance player programm, which can be downloaded here:
+
+https://substance3d.adobe.com/documentation/sp31/user-s-guide-for-substance-player-2294742.html
+
+Once you installed the player you open the sbsar files with it, change parameters of files at your need and export them.
+You can also choose which kind of textures you need to feed the shaders you are using. (normal, height, base color, ambient occlusion....)
+This means, that out of 1 sbsar file it is simple to create more than 1 texture.
+e.g. if there is a parquett file, you can mostly choose the length and distribution of the patterns additional to changing color.....
+I hope you enjoy the variety of possibilities that is given to you by that.
+As ambientcg.com gives away their creations for common creative, it is not necessary to give attribution, but would be kind of you.
+
+If you would like to combine textures to create e.g. a wall (concrete or brick) with a window (wood or plastic..) I will surely trie to create
+some at your needs, if I am able to.
+I do use substance designer and can trie to help you if needed. (I am still learning the use of designer.).
+If there is any question just tell me via koppiman@gmail.com
+Hope you have fun, and be creative.
+
+PS.: you can download all the textures on: https://github.com/inexorgame/textures
+
+A documetation on how to use substance player is found here:
+https://substance3d.adobe.com/documentation/sp31/how-to-use-substance-player-2294849.html
+
+Surely you are able to find tutorials on youtube yourself.
